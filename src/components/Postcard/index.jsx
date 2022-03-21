@@ -1,4 +1,4 @@
-
+import './styles.css';
 
 function PostCard({title, id, body, cover }){
   

@@ -1,4 +1,5 @@
 import PostCard from '../Postcard';
+import './styles.css';
 
 function Posts({posts}){
     return(
